@@ -7,7 +7,7 @@ Segue matéria interessante da Folha de São Paulo sobre terceirização. A conf
 O relatório citado na matéria pode ser visto no endereço abaixo. Não encontrei versão em Português ou Espanhol, pois ele foi lançado há menos de uma semana.
 http://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_368626.pdf
 
-No capítulo 1 há uma caixa diretamente relacionada à vocação de nosso campus: <<Tecnologia : Um jogo de soma zero?>> (Em Inglês, <<Technology and jobs: A zero sum game?>>). 
+No capítulo 1 há uma caixa diretamente relacionada à vocação de nosso campus: <<Tecnologia e trabalho: Um jogo de soma zero?>> (Em Inglês, <<Technology and jobs: A zero sum game?>>). 
 
 Traduzindo um trecho da citada caixa::
 
